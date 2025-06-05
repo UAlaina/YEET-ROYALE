@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA43DC-8B76-4C22-C82D-0DF4C19C437F}|Assembly-CSharp.csproj|c:\\users\\kisho\\onedrive\\desktop\\game builders\\imgoingtodie\\assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCA43DC-8B76-4C22-C82D-0DF4C19C437F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA43DC-8B76-4C22-C82D-0DF4C19C437F}|Assembly-CSharp.csproj|C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\assets\\scripts\\collectiblemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCA43DC-8B76-4C22-C82D-0DF4C19C437F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectiblemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA43DC-8B76-4C22-C82D-0DF4C19C437F}|Assembly-CSharp.csproj|C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCA43DC-8B76-4C22-C82D-0DF4C19C437F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA43DC-8B76-4C22-C82D-0DF4C19C437F}|Assembly-CSharp.csproj|C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\assets\\scripts\\hpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCA43DC-8B76-4C22-C82D-0DF4C19C437F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\assets\\scripts\\falldamagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\falldamagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectibleManager.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\CollectibleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectibleManager.cs",
+              "ToolTip": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\CollectibleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectibleManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T00:30:40.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\Collectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectible.cs",
+              "ToolTip": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\Collectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectible.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T00:29:44.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAwwGIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:13:20.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:10:50.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FallDamageManager.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\FallDamageManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FallDamageManager.cs",
+              "ToolTip": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\FallDamageManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FallDamageManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:07:21.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HPManager.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\HPManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HPManager.cs",
+              "ToolTip": "C:\\Users\\kisho\\OneDrive\\Desktop\\Game builders\\IMGOINGTODIE\\Assets\\Scripts\\HPManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HPManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:55:40.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
